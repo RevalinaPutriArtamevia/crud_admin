@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959284886965",
+    "project_id": "crud-admin-buku",
+    "storage_bucket": "crud-admin-buku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959284886965:android:2f078891f75338167b6dfc",
+        "android_client_info": {
+          "package_name": "com.example.crud_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YBviXGRkqk8LUtPqtZYftXSkgAiv3MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959284886965:android:edfbc9bac83548737b6dfc",
+        "android_client_info": {
+          "package_name": "com.example.crud_admin_buku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YBviXGRkqk8LUtPqtZYftXSkgAiv3MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
