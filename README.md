@@ -1,5 +1,8 @@
 # crud_admin
 
+## Screenshot Aplikasi
+![Tampilan CRUD](assets/images/sc%20crud.jpg)
+
 A new Flutter project.
 
 ## Getting Started
